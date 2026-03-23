@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260323-180939-9mju",
+      "title": "Shocks Per Minute",
+      "commanders": [
+        "Shocks Per Minute"
+      ],
+      "dateStart": "2026-03-23T10:09:39.000Z",
+      "dateEnd": "2026-03-23T11:06:44.000Z",
+      "dateLabel": "3/23/2026, 6:09:39 PM - 3/23/2026, 7:06:44 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260323-180939-9mju",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260323-210409-w461",
       "title": "Kingofcharrs, Kingofmesmers",
       "commanders": [
