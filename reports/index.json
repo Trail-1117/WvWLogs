@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260324-093357-p9gi",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-03-24T01:33:57.000Z",
+      "dateEnd": "2026-03-24T02:31:53.000Z",
+      "dateLabel": "3/24/2026, 9:33:57 AM - 3/24/2026, 10:31:53 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260324-093357-p9gi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260323-180939-9mju",
       "title": "Shocks Per Minute",
       "commanders": [
