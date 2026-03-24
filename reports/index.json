@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260324-211618-3qp3",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-03-24T13:16:18.000Z",
+      "dateEnd": "2026-03-24T14:48:41.000Z",
+      "dateLabel": "3/24/2026, 9:16:18 PM - 3/24/2026, 10:48:41 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260324-211618-3qp3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260324-093357-p9gi",
       "title": "Get On Me",
       "commanders": [
