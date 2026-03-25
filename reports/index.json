@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260325-103107-iv7c",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-03-25T02:31:07.000Z",
+      "dateEnd": "2026-03-25T03:09:29.000Z",
+      "dateLabel": "3/25/2026, 10:31:07 AM - 3/25/2026, 11:09:29 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260325-103107-iv7c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260324-211618-3qp3",
       "title": "Furry Fluffy Fur",
       "commanders": [
