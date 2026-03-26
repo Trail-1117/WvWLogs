@@ -1,10 +1,31 @@
 {
-  "siteTheme": {
-    "ui": "dark-glass",
-    "paletteId": "Aurora",
-    "kineticFont": "default"
-  },
+  "colorPalette": "amber-warm",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260326-171219-71op",
+      "title": "Leo Alistair, Leo Altyr",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Altyr"
+      ],
+      "dateStart": "2026-03-26T09:12:19.000Z",
+      "dateEnd": "2026-03-26T10:54:26.000Z",
+      "dateLabel": "3/26/2026, 5:12:19 PM - 3/26/2026, 6:54:26 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260326-171219-71op",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20260326-093425-0jnr",
       "title": "Get On Me",
