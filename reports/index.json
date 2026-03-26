@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260326-093425-0jnr",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-03-26T01:34:25.000Z",
+      "dateEnd": "2026-03-26T02:31:18.000Z",
+      "dateLabel": "3/26/2026, 9:34:25 AM - 3/26/2026, 10:31:18 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260326-093425-0jnr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260325-103107-iv7c",
       "title": "Gear Check For Bads",
       "commanders": [
