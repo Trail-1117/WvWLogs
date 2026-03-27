@@ -1,7 +1,30 @@
 {
-  "colorPalette": "amber-warm",
+  "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260327-091606-fnpw",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-03-27T01:16:06.000Z",
+      "dateEnd": "2026-03-27T03:01:11.000Z",
+      "dateLabel": "3/27/2026, 9:16:06 AM - 3/27/2026, 11:01:11 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260327-091606-fnpw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20260326-171219-71op",
       "title": "Leo Alistair, Leo Altyr",
