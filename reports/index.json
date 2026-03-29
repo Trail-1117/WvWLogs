@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260329-210133-9x1s",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-03-29T13:01:33.000Z",
+      "dateEnd": "2026-03-29T15:05:19.000Z",
+      "dateLabel": "3/29/2026, 9:01:33 PM - 3/29/2026, 11:05:19 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260329-210133-9x1s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260327-210217-gaiu",
       "title": "Furry Fluffy Fur",
       "commanders": [
