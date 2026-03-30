@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260330-211646-023n",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-03-30T13:16:46.000Z",
+      "dateEnd": "2026-03-30T14:40:44.000Z",
+      "dateLabel": "3/30/2026, 9:16:46 PM - 3/30/2026, 10:40:44 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260330-211646-023n",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260330-091426-zja8",
       "title": "Get On Me",
       "commanders": [
