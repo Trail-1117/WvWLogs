@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260331-172533-288m",
+      "title": "Big Myst Tiny Strip",
+      "commanders": [
+        "Big Myst Tiny Strip"
+      ],
+      "dateStart": "2026-03-31T09:25:33.000Z",
+      "dateEnd": "2026-03-31T10:59:15.000Z",
+      "dateLabel": "3/31/2026, 5:25:33 PM - 3/31/2026, 6:59:15 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-172533-288m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260331-095734-6dqc",
       "title": "Get On Me",
       "commanders": [
