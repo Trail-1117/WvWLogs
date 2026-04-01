@@ -1,383 +1,420 @@
-[
-  {
-    "id": "20260401-101418-ftrs",
-    "title": "Firebrand, Troubadour",
-    "commanders": [
-      "Firebrand",
-      "Troubadour"
-    ],
-    "dateStart": "2026-04-01T02:14:18.000Z",
-    "dateEnd": "2026-04-01T03:06:40.000Z",
-    "dateLabel": "4/1/2026, 10:14:18 AM - 4/1/2026, 11:06:40 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260401-101418-ftrs",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 16,
-          "color": "#64748b"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "entries": [
+    {
+      "id": "20260401-210918-t8jm",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 17
-    }
-  },
-  {
-    "id": "20260331-211339-vuv1",
-    "title": "Thanos Supreme",
-    "commanders": [
-      "Thanos Supreme"
-    ],
-    "dateStart": "2026-03-31T13:13:39.000Z",
-    "dateEnd": "2026-03-31T14:40:59.000Z",
-    "dateLabel": "3/31/2026, 9:13:39 PM - 3/31/2026, 10:40:59 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-211339-vuv1",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 9,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-01T13:09:18.000Z",
+      "dateEnd": "2026-04-01T14:49:19.000Z",
+      "dateLabel": "4/1/2026, 9:09:18 PM - 4/1/2026, 10:49:19 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260401-210918-t8jm",
+      "summary": {
+        "borderlandsPct": 0.7,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260401-101418-ftrs",
+      "title": "Firebrand, Troubadour",
+      "commanders": [
+        "Firebrand",
+        "Troubadour"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260331-172533-288m",
-    "title": "Big Myst Tiny Strip",
-    "commanders": [
-      "Big Myst Tiny Strip"
-    ],
-    "dateStart": "2026-03-31T09:25:33.000Z",
-    "dateEnd": "2026-03-31T10:59:15.000Z",
-    "dateLabel": "3/31/2026, 5:25:33 PM - 3/31/2026, 6:59:15 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-172533-288m",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-01T02:14:18.000Z",
+      "dateEnd": "2026-04-01T03:06:40.000Z",
+      "dateLabel": "4/1/2026, 10:14:18 AM - 4/1/2026, 11:06:40 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260401-101418-ftrs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260331-211339-vuv1",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260331-095734-6dqc",
-    "title": "Get On Me",
-    "commanders": [
-      "Get On Me"
-    ],
-    "dateStart": "2026-03-31T01:57:34.000Z",
-    "dateEnd": "2026-03-31T03:04:04.000Z",
-    "dateLabel": "3/31/2026, 9:57:34 AM - 3/31/2026, 11:04:04 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-095734-6dqc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 18,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-31T13:13:39.000Z",
+      "dateEnd": "2026-03-31T14:40:59.000Z",
+      "dateLabel": "3/31/2026, 9:13:39 PM - 3/31/2026, 10:40:59 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-211339-vuv1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260331-172533-288m",
+      "title": "Big Myst Tiny Strip",
+      "commanders": [
+        "Big Myst Tiny Strip"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260330-211646-023n",
-    "title": "Enrique Roddriguez",
-    "commanders": [
-      "Enrique Roddriguez"
-    ],
-    "dateStart": "2026-03-30T13:16:46.000Z",
-    "dateEnd": "2026-03-30T14:40:44.000Z",
-    "dateLabel": "3/30/2026, 9:16:46 PM - 3/30/2026, 10:40:44 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260330-211646-023n",
-    "summary": {
-      "borderlandsPct": 0.05555555555555555,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 17,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-31T09:25:33.000Z",
+      "dateEnd": "2026-03-31T10:59:15.000Z",
+      "dateLabel": "3/31/2026, 5:25:33 PM - 3/31/2026, 6:59:15 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-172533-288m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260331-095734-6dqc",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260330-091426-zja8",
-    "title": "Get On Me",
-    "commanders": [
-      "Get On Me"
-    ],
-    "dateStart": "2026-03-30T01:14:26.000Z",
-    "dateEnd": "2026-03-30T02:33:03.000Z",
-    "dateLabel": "3/30/2026, 9:14:26 AM - 3/30/2026, 10:33:03 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260330-091426-zja8",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-31T01:57:34.000Z",
+      "dateEnd": "2026-03-31T03:04:04.000Z",
+      "dateLabel": "3/31/2026, 9:57:34 AM - 3/31/2026, 11:04:04 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260331-095734-6dqc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260330-211646-023n",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260329-210133-9x1s",
-    "title": "Thanos Supreme",
-    "commanders": [
-      "Thanos Supreme"
-    ],
-    "dateStart": "2026-03-29T13:01:33.000Z",
-    "dateEnd": "2026-03-29T15:05:19.000Z",
-    "dateLabel": "3/29/2026, 9:01:33 PM - 3/29/2026, 11:05:19 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260329-210133-9x1s",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 20,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-30T13:16:46.000Z",
+      "dateEnd": "2026-03-30T14:40:44.000Z",
+      "dateLabel": "3/30/2026, 9:16:46 PM - 3/30/2026, 10:40:44 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260330-211646-023n",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260330-091426-zja8",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260327-210217-gaiu",
-    "title": "Furry Fluffy Fur",
-    "commanders": [
-      "Furry Fluffy Fur"
-    ],
-    "dateStart": "2026-03-27T13:02:17.000Z",
-    "dateEnd": "2026-03-27T15:29:59.000Z",
-    "dateLabel": "3/27/2026, 9:02:17 PM - 3/27/2026, 11:29:59 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260327-210217-gaiu",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-30T01:14:26.000Z",
+      "dateEnd": "2026-03-30T02:33:03.000Z",
+      "dateLabel": "3/30/2026, 9:14:26 AM - 3/30/2026, 10:33:03 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260330-091426-zja8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260329-210133-9x1s",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260327-091606-fnpw",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-03-27T01:16:06.000Z",
-    "dateEnd": "2026-03-27T03:01:11.000Z",
-    "dateLabel": "3/27/2026, 9:16:06 AM - 3/27/2026, 11:01:11 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260327-091606-fnpw",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 29,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-29T13:01:33.000Z",
+      "dateEnd": "2026-03-29T15:05:19.000Z",
+      "dateLabel": "3/29/2026, 9:01:33 PM - 3/29/2026, 11:05:19 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260329-210133-9x1s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260327-210217-gaiu",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260326-171219-71op",
-    "title": "Leo Alistair, Leo Altyr",
-    "commanders": [
-      "Leo Alistair",
-      "Leo Altyr"
-    ],
-    "dateStart": "2026-03-26T09:12:19.000Z",
-    "dateEnd": "2026-03-26T10:54:26.000Z",
-    "dateLabel": "3/26/2026, 5:12:19 PM - 3/26/2026, 6:54:26 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260326-171219-71op",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-27T13:02:17.000Z",
+      "dateEnd": "2026-03-27T15:29:59.000Z",
+      "dateLabel": "3/27/2026, 9:02:17 PM - 3/27/2026, 11:29:59 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260327-210217-gaiu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 20
+      }
+    },
+    {
+      "id": "20260327-091606-fnpw",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260326-093425-0jnr",
-    "title": "Get On Me",
-    "commanders": [
-      "Get On Me"
-    ],
-    "dateStart": "2026-03-26T01:34:25.000Z",
-    "dateEnd": "2026-03-26T02:31:18.000Z",
-    "dateLabel": "3/26/2026, 9:34:25 AM - 3/26/2026, 10:31:18 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260326-093425-0jnr",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 17,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-03-27T01:16:06.000Z",
+      "dateEnd": "2026-03-27T03:01:11.000Z",
+      "dateLabel": "3/27/2026, 9:16:06 AM - 3/27/2026, 11:01:11 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260327-091606-fnpw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260326-171219-71op",
+      "title": "Leo Alistair, Leo Altyr",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Altyr"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260325-103107-iv7c",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-03-25T02:31:07.000Z",
-    "dateEnd": "2026-03-25T03:09:29.000Z",
-    "dateLabel": "3/25/2026, 10:31:07 AM - 3/25/2026, 11:09:29 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260325-103107-iv7c",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-26T09:12:19.000Z",
+      "dateEnd": "2026-03-26T10:54:26.000Z",
+      "dateLabel": "3/26/2026, 5:12:19 PM - 3/26/2026, 6:54:26 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260326-171219-71op",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 26
+      }
+    },
+    {
+      "id": "20260326-093425-0jnr",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 17
-    }
-  },
-  {
-    "id": "20260324-211618-3qp3",
-    "title": "Furry Fluffy Fur",
-    "commanders": [
-      "Furry Fluffy Fur"
-    ],
-    "dateStart": "2026-03-24T13:16:18.000Z",
-    "dateEnd": "2026-03-24T14:48:41.000Z",
-    "dateLabel": "3/24/2026, 9:16:18 PM - 3/24/2026, 10:48:41 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260324-211618-3qp3",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-26T01:34:25.000Z",
+      "dateEnd": "2026-03-26T02:31:18.000Z",
+      "dateLabel": "3/26/2026, 9:34:25 AM - 3/26/2026, 10:31:18 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260326-093425-0jnr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
+      "id": "20260325-103107-iv7c",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260324-093357-p9gi",
-    "title": "Get On Me",
-    "commanders": [
-      "Get On Me"
-    ],
-    "dateStart": "2026-03-24T01:33:57.000Z",
-    "dateEnd": "2026-03-24T02:31:53.000Z",
-    "dateLabel": "3/24/2026, 9:33:57 AM - 3/24/2026, 10:31:53 AM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260324-093357-p9gi",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 16,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-03-25T02:31:07.000Z",
+      "dateEnd": "2026-03-25T03:09:29.000Z",
+      "dateLabel": "3/25/2026, 10:31:07 AM - 3/25/2026, 11:09:29 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260325-103107-iv7c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260324-211618-3qp3",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260323-180939-9mju",
-    "title": "Shocks Per Minute",
-    "commanders": [
-      "Shocks Per Minute"
-    ],
-    "dateStart": "2026-03-23T10:09:39.000Z",
-    "dateEnd": "2026-03-23T11:06:44.000Z",
-    "dateLabel": "3/23/2026, 6:09:39 PM - 3/23/2026, 7:06:44 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260323-180939-9mju",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-24T13:16:18.000Z",
+      "dateEnd": "2026-03-24T14:48:41.000Z",
+      "dateLabel": "3/24/2026, 9:16:18 PM - 3/24/2026, 10:48:41 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260324-211618-3qp3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260324-093357-p9gi",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
       ],
-      "avgSquadSize": 43,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260323-210409-w461",
-    "title": "Kingofcharrs, Kingofmesmers",
-    "commanders": [
-      "Kingofcharrs",
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-03-23T13:04:09.000Z",
-    "dateEnd": "2026-03-23T15:03:19.000Z",
-    "dateLabel": "3/23/2026, 9:04:09 PM - 3/23/2026, 11:03:19 PM",
-    "url": "https://Trail-1117.github.io/WvWLogs/?report=20260323-210409-w461",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 34,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-24T01:33:57.000Z",
+      "dateEnd": "2026-03-24T02:31:53.000Z",
+      "dateLabel": "3/24/2026, 9:33:57 AM - 3/24/2026, 10:31:53 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260324-093357-p9gi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
+      "id": "20260323-180939-9mju",
+      "title": "Shocks Per Minute",
+      "commanders": [
+        "Shocks Per Minute"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 44
+      "dateStart": "2026-03-23T10:09:39.000Z",
+      "dateEnd": "2026-03-23T11:06:44.000Z",
+      "dateLabel": "3/23/2026, 6:09:39 PM - 3/23/2026, 7:06:44 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260323-180939-9mju",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260323-210409-w461",
+      "title": "Kingofcharrs, Kingofmesmers",
+      "commanders": [
+        "Kingofcharrs",
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-03-23T13:04:09.000Z",
+      "dateEnd": "2026-03-23T15:03:19.000Z",
+      "dateLabel": "3/23/2026, 9:04:09 PM - 3/23/2026, 11:03:19 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260323-210409-w461",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 44
+      }
     }
-  }
-]
+  ]
+}
