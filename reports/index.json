@@ -3,6 +3,30 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260401-101418-uglg",
+      "title": "Firebrand, Troubadour",
+      "commanders": [
+        "Firebrand",
+        "Troubadour"
+      ],
+      "dateStart": "2026-04-01T02:14:18.000Z",
+      "dateEnd": "2026-04-01T03:06:40.000Z",
+      "dateLabel": "4/1/2026, 10:14:18 AM - 4/1/2026, 11:06:40 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260401-101418-uglg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260331-211339-vuv1",
       "title": "Thanos Supreme",
       "commanders": [
