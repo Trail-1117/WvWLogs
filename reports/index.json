@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260402-091220-8hob",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-02T01:12:20.000Z",
+      "dateEnd": "2026-04-02T02:31:47.000Z",
+      "dateLabel": "4/2/2026, 9:12:20 AM - 4/2/2026, 10:31:47 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260402-091220-8hob",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260401-210918-t8jm",
       "title": "Enrique Roddriguez",
       "commanders": [
