@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260404-100855-wxkt",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-04T02:08:55.000Z",
+      "dateEnd": "2026-04-04T03:58:01.000Z",
+      "dateLabel": "4/4/2026, 10:08:55 AM - 4/4/2026, 11:58:01 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260404-100855-wxkt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260403-214744-6f8k",
       "title": "Thanos Supreme",
       "commanders": [
