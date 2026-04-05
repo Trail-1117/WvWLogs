@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260405-212622-kmiz",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-04-05T13:26:22.000Z",
+      "dateEnd": "2026-04-05T14:24:13.000Z",
+      "dateLabel": "4/5/2026, 9:26:22 PM - 4/5/2026, 10:24:13 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260405-212622-kmiz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260404-100855-wxkt",
       "title": "Get On Me",
       "commanders": [
