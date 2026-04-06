@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260406-091546-8n5n",
+      "title": "Hocus Brocus",
+      "commanders": [
+        "Hocus Brocus"
+      ],
+      "dateStart": "2026-04-06T01:15:46.000Z",
+      "dateEnd": "2026-04-06T03:00:30.000Z",
+      "dateLabel": "4/6/2026, 9:15:46 AM - 4/6/2026, 11:00:30 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260406-091546-8n5n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260405-212622-kmiz",
       "title": "Thanos Supreme",
       "commanders": [
