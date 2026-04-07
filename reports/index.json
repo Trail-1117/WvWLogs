@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260407-211837-vmws",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-04-07T13:18:37.000Z",
+      "dateEnd": "2026-04-07T14:11:22.000Z",
+      "dateLabel": "4/7/2026, 9:18:37 PM - 4/7/2026, 10:11:22 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260407-211837-vmws",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260407-182619-0kws",
       "title": "Hime Utsumiya",
       "commanders": [
