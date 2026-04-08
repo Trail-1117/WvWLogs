@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260408-205353-iocr",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-04-08T12:53:53.000Z",
+      "dateEnd": "2026-04-08T13:59:17.000Z",
+      "dateLabel": "4/8/2026, 8:53:53 PM - 4/8/2026, 9:59:17 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260408-205353-iocr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260407-211837-vmws",
       "title": "Thanos Supreme",
       "commanders": [
