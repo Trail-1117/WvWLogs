@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260409-181319-ksky",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "dateStart": "2026-04-09T10:13:19.000Z",
+      "dateEnd": "2026-04-09T11:30:41.000Z",
+      "dateLabel": "4/9/2026, 6:13:19 PM - 4/9/2026, 7:30:41 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260409-181319-ksky",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260409-085927-5efn",
       "title": "Link Does Damage",
       "commanders": [
