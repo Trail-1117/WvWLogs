@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260410-220543-97um",
+      "title": "Gear Check For Bads, Thanos Supreme",
+      "commanders": [
+        "Gear Check For Bads",
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-04-10T14:05:43.000Z",
+      "dateEnd": "2026-04-11T03:04:00.000Z",
+      "dateLabel": "4/10/2026, 10:05:43 PM - 4/11/2026, 11:04:00 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260410-220543-97um",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260410-101248-gpy0",
       "title": "Get On Me",
       "commanders": [
