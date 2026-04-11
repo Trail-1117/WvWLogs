@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260411-101119-731o",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-04-11T02:11:19.000Z",
+      "dateEnd": "2026-04-11T02:56:09.000Z",
+      "dateLabel": "4/11/2026, 10:11:19 AM - 4/11/2026, 10:56:09 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260411-101119-731o",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260410-220543-97um",
       "title": "Gear Check For Bads, Thanos Supreme",
       "commanders": [
