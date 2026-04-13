@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260413-090521-u5wv",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-13T01:05:21.000Z",
+      "dateEnd": "2026-04-13T02:32:04.000Z",
+      "dateLabel": "4/13/2026, 9:05:21 AM - 4/13/2026, 10:32:04 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260413-090521-u5wv",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260412-211111-dno4",
       "title": "Thanos Supreme",
       "commanders": [
