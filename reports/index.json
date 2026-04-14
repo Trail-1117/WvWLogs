@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260414-103411-l2ti",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-04-14T02:34:11.000Z",
+      "dateEnd": "2026-04-14T03:04:46.000Z",
+      "dateLabel": "4/14/2026, 10:34:11 AM - 4/14/2026, 11:04:46 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260414-103411-l2ti",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260414-092333-qwxr",
       "title": "Link Does Damage",
       "commanders": [
