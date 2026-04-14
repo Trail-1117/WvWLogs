@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260414-092333-qwxr",
+      "title": "Link Does Damage",
+      "commanders": [
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-04-14T01:23:33.000Z",
+      "dateEnd": "2026-04-14T01:58:50.000Z",
+      "dateLabel": "4/14/2026, 9:23:33 AM - 4/14/2026, 9:58:50 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260414-092333-qwxr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260413-210901-w4yg",
       "title": "Thanos Supreme",
       "commanders": [
