@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260414-212805-92n9",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-04-14T13:28:05.000Z",
+      "dateEnd": "2026-04-14T14:27:19.000Z",
+      "dateLabel": "4/14/2026, 9:28:05 PM - 4/14/2026, 10:27:19 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260414-212805-92n9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260414-181720-2g6v",
       "title": "Hime Utsumiya",
       "commanders": [
