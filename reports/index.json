@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260414-181720-2g6v",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "dateStart": "2026-04-14T10:17:20.000Z",
+      "dateEnd": "2026-04-14T11:03:21.000Z",
+      "dateLabel": "4/14/2026, 6:17:20 PM - 4/14/2026, 7:03:21 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260414-181720-2g6v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260414-103411-l2ti",
       "title": "Get On Me",
       "commanders": [
