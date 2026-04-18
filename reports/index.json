@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260418-084810-dlsf",
+      "title": "Spellbreaker",
+      "commanders": [
+        "Spellbreaker"
+      ],
+      "dateStart": "2026-04-18T00:48:10.000Z",
+      "dateEnd": "2026-04-18T01:29:44.000Z",
+      "dateLabel": "4/18/2026, 8:48:10 AM - 4/18/2026, 9:29:44 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260418-084810-dlsf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260417-204221-xr9e",
       "title": "Thanos Supreme",
       "commanders": [
