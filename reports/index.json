@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260418-100728-vge8",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-04-18T02:07:28.000Z",
+      "dateEnd": "2026-04-18T03:34:51.000Z",
+      "dateLabel": "4/18/2026, 10:07:28 AM - 4/18/2026, 11:34:51 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260418-100728-vge8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260418-084810-dlsf",
       "title": "Spellbreaker",
       "commanders": [
