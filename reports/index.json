@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260422-175712-73u5",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-04-22T09:57:12.000Z",
+      "dateEnd": "2026-04-22T11:41:23.000Z",
+      "dateLabel": "4/22/2026, 5:57:12 PM - 4/22/2026, 7:41:23 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260422-175712-73u5",
+      "summary": {
+        "borderlandsPct": 0.08333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260422-091159-wlru",
       "title": "Get On Me",
       "commanders": [
