@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260423-210147-k74g",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-04-23T13:01:47.000Z",
+      "dateEnd": "2026-04-23T14:38:36.000Z",
+      "dateLabel": "4/23/2026, 9:01:47 PM - 4/23/2026, 10:38:36 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260423-210147-k74g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260423-174938-rfoi",
       "title": "Markus Is One",
       "commanders": [
