@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260425-101154-mbbd",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-04-25T02:11:54.000Z",
+      "dateEnd": "2026-04-25T04:04:16.000Z",
+      "dateLabel": "4/25/2026, 10:11:54 AM - 4/25/2026, 12:04:16 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260425-101154-mbbd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260423-210147-k74g",
       "title": "Furry Fluffy Fur",
       "commanders": [
