@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260426-210517-dbo1",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-04-26T13:05:17.000Z",
+      "dateEnd": "2026-04-26T13:47:44.000Z",
+      "dateLabel": "4/26/2026, 9:05:17 PM - 4/26/2026, 9:47:44 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260426-210517-dbo1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260426-182109-41jb",
       "title": "Napalm Phantasm",
       "commanders": [
