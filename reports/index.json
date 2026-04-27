@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260427-104751-8rm5",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "dateStart": "2026-04-27T02:47:51.000Z",
+      "dateEnd": "2026-04-27T03:01:54.000Z",
+      "dateLabel": "4/27/2026, 10:47:51 AM - 4/27/2026, 11:01:54 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260427-104751-8rm5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 6,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260427-092712-zta6",
       "title": "Ebt Baby",
       "commanders": [
