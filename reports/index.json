@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260427-204951-woce",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-04-27T12:49:51.000Z",
+      "dateEnd": "2026-04-27T14:00:31.000Z",
+      "dateLabel": "4/27/2026, 8:49:51 PM - 4/27/2026, 10:00:31 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260427-204951-woce",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260427-104751-8rm5",
       "title": "Ebt Baby",
       "commanders": [
