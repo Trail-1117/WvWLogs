@@ -3,6 +3,36 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260429-090422-skgx",
+      "title": "Get Mesmorized, Jippí, Mesmereyez",
+      "commanders": [
+        "Get Mesmorized",
+        "Jippí",
+        "Mesmereyez"
+      ],
+      "dateStart": "2026-04-29T01:04:22.000Z",
+      "dateEnd": "2026-04-29T03:05:23.000Z",
+      "dateLabel": "4/29/2026, 9:04:22 AM - 4/29/2026, 11:05:23 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260429-090422-skgx",
+      "summary": {
+        "borderlandsPct": 0.7333333333333333,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260427-204951-woce",
       "title": "Furry Fluffy Fur",
       "commanders": [
