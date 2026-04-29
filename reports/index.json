@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260429-205622-d3oo",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-04-29T12:56:22.000Z",
+      "dateEnd": "2026-04-29T14:12:29.000Z",
+      "dateLabel": "4/29/2026, 8:56:22 PM - 4/29/2026, 10:12:29 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260429-205622-d3oo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260429-090422-1kwy",
       "title": "Get Mesmorized",
       "commanders": [
