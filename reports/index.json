@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260430-220917-h14n",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-04-30T14:09:17.000Z",
+      "dateEnd": "2026-04-30T14:57:13.000Z",
+      "dateLabel": "4/30/2026, 10:09:17 PM - 4/30/2026, 10:57:13 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260430-220917-h14n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260430-220917-w2fd",
       "title": "Furry Fluffy Fur",
       "commanders": [
