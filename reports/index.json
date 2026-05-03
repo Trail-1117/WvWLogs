@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260503-223247-gxbm",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-05-03T14:32:47.000Z",
+      "dateEnd": "2026-05-03T15:35:25.000Z",
+      "dateLabel": "5/3/2026, 10:32:47 PM - 5/3/2026, 11:35:25 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260503-223247-gxbm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260503-204811-aiwh",
       "title": "Milk R",
       "commanders": [
