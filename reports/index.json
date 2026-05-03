@@ -1,7 +1,36 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
+  "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260503-204811-aiwh",
+      "title": "Milk R",
+      "commanders": [
+        "Milk R"
+      ],
+      "dateStart": "2026-05-03T12:48:11.000Z",
+      "dateEnd": "2026-05-03T14:21:57.000Z",
+      "dateLabel": "5/3/2026, 8:48:11 PM - 5/3/2026, 10:21:57 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260503-204811-aiwh",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20260503-080243-g8l0",
       "title": "Hi Im Duke",
