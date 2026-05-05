@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260505-091245-qbz3",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-05T01:12:45.000Z",
+      "dateEnd": "2026-05-05T01:54:26.000Z",
+      "dateLabel": "5/5/2026, 9:12:45 AM - 5/5/2026, 9:54:26 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260505-091245-qbz3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260503-223247-gxbm",
       "title": "Thanos Supreme",
       "commanders": [
