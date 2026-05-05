@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260505-204327-dpyf",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-05T12:43:27.000Z",
+      "dateEnd": "2026-05-05T13:50:11.000Z",
+      "dateLabel": "5/5/2026, 8:43:27 PM - 5/5/2026, 9:50:11 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260505-204327-dpyf",
+      "summary": {
+        "borderlandsPct": 0.3076923076923077,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260505-091245-qbz3",
       "title": "Get On Me",
       "commanders": [
