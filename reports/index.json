@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260507-204756-nu79",
+      "title": "Lucina Luminare, Selene Luminare",
+      "commanders": [
+        "Lucina Luminare",
+        "Selene Luminare"
+      ],
+      "dateStart": "2026-05-07T12:47:56.000Z",
+      "dateEnd": "2026-05-07T14:45:43.000Z",
+      "dateLabel": "5/7/2026, 8:47:56 PM - 5/7/2026, 10:45:43 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260507-204756-nu79",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260507-092048-efh2",
       "title": "Majestic Dreamspear",
       "commanders": [
