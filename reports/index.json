@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260508-214245-75c5",
+      "title": "Teeny Tiny Toes, Thanos Supreme",
+      "commanders": [
+        "Teeny Tiny Toes",
+        "Thanos Supreme"
+      ],
+      "dateStart": "2026-05-08T13:42:45.000Z",
+      "dateEnd": "2026-05-08T14:48:02.000Z",
+      "dateLabel": "5/8/2026, 9:42:45 PM - 5/8/2026, 10:48:02 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260508-214245-75c5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260507-204756-nu79",
       "title": "Lucina Luminare, Selene Luminare",
       "commanders": [
