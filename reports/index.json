@@ -4,6 +4,45 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260509-214808-5gc9",
+      "title": "Furry Fluffy Fur, Teeny Tiny Toes",
+      "commanders": [
+        "Furry Fluffy Fur",
+        "Teeny Tiny Toes"
+      ],
+      "dateStart": "2026-05-09T13:48:08.000Z",
+      "dateEnd": "2026-05-09T15:22:50.000Z",
+      "dateLabel": "5/9/2026, 9:48:08 PM - 5/9/2026, 11:22:50 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260509-214808-5gc9",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260508-214245-75c5",
       "title": "Teeny Tiny Toes, Thanos Supreme",
       "commanders": [
