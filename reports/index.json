@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260510-211149-ubm1",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-10T13:11:49.000Z",
+      "dateEnd": "2026-05-10T14:22:17.000Z",
+      "dateLabel": "5/10/2026, 9:11:49 PM - 5/10/2026, 10:22:17 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260510-211149-ubm1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260510-155612-2tby",
       "title": "U Milk M, Wrenn And Zero",
       "commanders": [
