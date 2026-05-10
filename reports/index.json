@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260510-155612-2tby",
+      "title": "U Milk M, Wrenn And Zero",
+      "commanders": [
+        "U Milk M",
+        "Wrenn And Zero"
+      ],
+      "dateStart": "2026-05-10T07:56:12.000Z",
+      "dateEnd": "2026-05-10T14:22:17.000Z",
+      "dateLabel": "5/10/2026, 3:56:12 PM - 5/10/2026, 10:22:17 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260510-155612-2tby",
+      "summary": {
+        "borderlandsPct": 0.8333333333333334,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260510-080125-p3ch",
       "title": "Duke The Immortal",
       "commanders": [
