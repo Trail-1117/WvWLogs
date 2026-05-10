@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260510-080125-p3ch",
+      "title": "Duke The Immortal",
+      "commanders": [
+        "Duke The Immortal"
+      ],
+      "dateStart": "2026-05-10T00:01:25.000Z",
+      "dateEnd": "2026-05-10T00:52:12.000Z",
+      "dateLabel": "5/10/2026, 8:01:25 AM - 5/10/2026, 8:52:12 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260510-080125-p3ch",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260509-214808-5gc9",
       "title": "Furry Fluffy Fur, Teeny Tiny Toes",
       "commanders": [
