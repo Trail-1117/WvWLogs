@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260515-090600-orqb",
+      "title": "A Lot Of Fellas",
+      "commanders": [
+        "A Lot Of Fellas"
+      ],
+      "dateStart": "2026-05-15T01:06:00.000Z",
+      "dateEnd": "2026-05-15T01:52:09.000Z",
+      "dateLabel": "5/15/2026, 9:06:00 AM - 5/15/2026, 9:52:09 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260515-090600-orqb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260514-212619-30d2",
       "title": "Nyoôm",
       "commanders": [
