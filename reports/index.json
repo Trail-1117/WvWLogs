@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260516-203125-eoqv",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-16T12:31:25.000Z",
+      "dateEnd": "2026-05-16T14:00:31.000Z",
+      "dateLabel": "5/16/2026, 8:31:25 PM - 5/16/2026, 10:00:31 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260516-203125-eoqv",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260515-210421-b9fc",
       "title": "Furry Fluffy Fur",
       "commanders": [
