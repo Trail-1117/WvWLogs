@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260517-081707-yt1z",
+      "title": "Bálls Of Steel",
+      "commanders": [
+        "Bálls Of Steel"
+      ],
+      "dateStart": "2026-05-17T00:17:07.000Z",
+      "dateEnd": "2026-05-17T01:24:10.000Z",
+      "dateLabel": "5/17/2026, 8:17:07 AM - 5/17/2026, 9:24:10 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260517-081707-yt1z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260516-223241-si6q",
       "title": "Furry Fluffy Fur",
       "commanders": [
