@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260518-080708-01oq",
+      "title": "A Lot Of Fellas",
+      "commanders": [
+        "A Lot Of Fellas"
+      ],
+      "dateStart": "2026-05-18T00:07:08.000Z",
+      "dateEnd": "2026-05-18T01:58:06.000Z",
+      "dateLabel": "5/18/2026, 8:07:08 AM - 5/18/2026, 9:58:06 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260518-080708-01oq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260517-204545-a72y",
       "title": "The Bloöp",
       "commanders": [
