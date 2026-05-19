@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260519-210205-o4wt",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-19T13:02:05.000Z",
+      "dateEnd": "2026-05-19T14:28:31.000Z",
+      "dateLabel": "5/19/2026, 9:02:05 PM - 5/19/2026, 10:28:31 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260519-210205-o4wt",
+      "summary": {
+        "borderlandsPct": 0.46153846153846156,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260518-080708-01oq",
       "title": "A Lot Of Fellas",
       "commanders": [
