@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260521-212501-h6vo",
+      "title": "Nyoôm",
+      "commanders": [
+        "Nyoôm"
+      ],
+      "dateStart": "2026-05-21T13:25:01.000Z",
+      "dateEnd": "2026-05-21T15:01:39.000Z",
+      "dateLabel": "5/21/2026, 9:25:01 PM - 5/21/2026, 11:01:39 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260521-212501-h6vo",
+      "summary": {
+        "borderlandsPct": 0.7,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260521-222349-wz6t",
       "title": "The Bloöp",
       "commanders": [
