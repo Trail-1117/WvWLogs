@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260521-081104-tjzh",
+      "title": "Anvil Plants",
+      "commanders": [
+        "Anvil Plants"
+      ],
+      "dateStart": "2026-05-21T00:11:04.000Z",
+      "dateEnd": "2026-05-21T01:53:03.000Z",
+      "dateLabel": "5/21/2026, 8:11:04 AM - 5/21/2026, 9:53:03 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260521-081104-tjzh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260520-205155-d3fy",
       "title": "Furry Fluffy Fur",
       "commanders": [
