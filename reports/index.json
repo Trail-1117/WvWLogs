@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260522-205922-lc6a",
+      "title": "Its Bloop, U Milk M",
+      "commanders": [
+        "Its Bloop",
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-22T12:59:22.000Z",
+      "dateEnd": "2026-05-22T14:37:27.000Z",
+      "dateLabel": "5/22/2026, 8:59:22 PM - 5/22/2026, 10:37:27 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260522-205922-lc6a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260522-080952-xyh7",
       "title": "A Lot Of Fellas",
       "commanders": [
