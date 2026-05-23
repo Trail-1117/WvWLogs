@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260523-101509-rsac",
+      "title": "Mohr Shadows",
+      "commanders": [
+        "Mohr Shadows"
+      ],
+      "dateStart": "2026-05-23T02:15:09.000Z",
+      "dateEnd": "2026-05-23T02:44:33.000Z",
+      "dateLabel": "5/23/2026, 10:15:09 AM - 5/23/2026, 10:44:33 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260523-101509-rsac",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260522-205922-lc6a",
       "title": "Its Bloop, U Milk M",
       "commanders": [
