@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260523-204345-ae0n",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-23T12:43:45.000Z",
+      "dateEnd": "2026-05-23T14:28:00.000Z",
+      "dateLabel": "5/23/2026, 8:43:45 PM - 5/23/2026, 10:28:00 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260523-204345-ae0n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260523-101509-rsac",
       "title": "Mohr Shadows",
       "commanders": [
