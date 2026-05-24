@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260524-203158-yudj",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-24T12:31:58.000Z",
+      "dateEnd": "2026-05-24T14:31:13.000Z",
+      "dateLabel": "5/24/2026, 8:31:58 PM - 5/24/2026, 10:31:13 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260524-203158-yudj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260524-080449-6ux4",
       "title": "Bálls Of Steel",
       "commanders": [
