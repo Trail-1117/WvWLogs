@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260524-080449-6ux4",
+      "title": "Bálls Of Steel",
+      "commanders": [
+        "Bálls Of Steel"
+      ],
+      "dateStart": "2026-05-24T00:04:49.000Z",
+      "dateEnd": "2026-05-24T01:58:02.000Z",
+      "dateLabel": "5/24/2026, 8:04:49 AM - 5/24/2026, 9:58:02 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260524-080449-6ux4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260523-204345-ae0n",
       "title": "The Bloöp",
       "commanders": [
