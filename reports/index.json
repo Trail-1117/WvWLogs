@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260526-203112-gtgz",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-26T12:31:12.000Z",
+      "dateEnd": "2026-05-26T15:29:02.000Z",
+      "dateLabel": "5/26/2026, 8:31:12 PM - 5/26/2026, 11:29:02 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260526-203112-gtgz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260525-073032-mzbj",
       "title": "A Lot Of Fellas",
       "commanders": [
