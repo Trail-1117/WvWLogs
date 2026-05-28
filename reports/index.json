@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260528-204518-nc5p",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-28T12:45:18.000Z",
+      "dateEnd": "2026-05-28T14:22:30.000Z",
+      "dateLabel": "5/28/2026, 8:45:18 PM - 5/28/2026, 10:22:30 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260528-204518-nc5p",
+      "summary": {
+        "borderlandsPct": 0.07407407407407407,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260527-205318-ufit",
       "title": "Furry Fluffy Fur",
       "commanders": [
