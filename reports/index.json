@@ -4,6 +4,31 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260531-210254-oqr1",
+      "title": "The Bloöp, The Nyoom, U Milk M",
+      "commanders": [
+        "The Bloöp",
+        "The Nyoom",
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-31T13:02:54.000Z",
+      "dateEnd": "2026-05-31T14:56:08.000Z",
+      "dateLabel": "5/31/2026, 9:02:54 PM - 5/31/2026, 10:56:08 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260531-210254-oqr1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260530-213808-rili",
       "title": "Furry Fluffy Fur",
       "commanders": [
