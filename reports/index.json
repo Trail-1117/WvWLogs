@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260602-101314-m6zx",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-02T02:13:14.000Z",
+      "dateEnd": "2026-06-02T03:02:06.000Z",
+      "dateLabel": "6/2/2026, 10:13:14 AM - 6/2/2026, 11:02:06 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260602-101314-m6zx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260531-210254-oqr1",
       "title": "The Bloöp, The Nyoom, U Milk M",
       "commanders": [
