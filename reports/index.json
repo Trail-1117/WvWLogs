@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260608-204816-dvl1",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-08T12:48:16.000Z",
+      "dateEnd": "2026-06-08T14:39:33.000Z",
+      "dateLabel": "6/8/2026, 8:48:16 PM - 6/8/2026, 10:39:33 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260608-204816-dvl1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260607-202027-rges",
       "title": "The Bloöp",
       "commanders": [
