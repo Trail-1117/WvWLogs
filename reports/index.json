@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260610-203753-ebzz",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-10T12:37:53.000Z",
+      "dateEnd": "2026-06-10T14:20:30.000Z",
+      "dateLabel": "6/10/2026, 8:37:53 PM - 6/10/2026, 10:20:30 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260610-203753-ebzz",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260609-212124-pziw",
       "title": "Thanos Supreme",
       "commanders": [
