@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260612-211826-pdrh",
+      "title": "Its Bloop, Nyoôm",
+      "commanders": [
+        "Its Bloop",
+        "Nyoôm"
+      ],
+      "dateStart": "2026-06-12T13:18:26.000Z",
+      "dateEnd": "2026-06-12T14:07:56.000Z",
+      "dateLabel": "6/12/2026, 9:18:26 PM - 6/12/2026, 10:07:56 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260612-211826-pdrh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260611-101531-lc1k",
       "title": "Diamond Soldier",
       "commanders": [
