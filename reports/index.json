@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260614-094236-0now",
+      "title": "Mist Captain Knight",
+      "commanders": [
+        "Mist Captain Knight"
+      ],
+      "dateStart": "2026-06-14T01:42:36.000Z",
+      "dateEnd": "2026-06-14T02:24:45.000Z",
+      "dateLabel": "6/14/2026, 9:42:36 AM - 6/14/2026, 10:24:45 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260614-094236-0now",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260613-212459-4k9f",
       "title": "The Bloöp",
       "commanders": [
