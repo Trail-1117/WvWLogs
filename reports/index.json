@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260615-212608-dj1k",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-15T13:26:08.000Z",
+      "dateEnd": "2026-06-15T14:58:41.000Z",
+      "dateLabel": "6/15/2026, 9:26:08 PM - 6/15/2026, 10:58:41 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260615-212608-dj1k",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260614-094236-0now",
       "title": "Mist Captain Knight",
       "commanders": [
