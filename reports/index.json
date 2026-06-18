@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260618-121428-g8hj",
+      "title": "X Kears",
+      "commanders": [
+        "X Kears"
+      ],
+      "dateStart": "2026-06-18T04:14:28.000Z",
+      "dateEnd": "2026-06-18T05:04:59.000Z",
+      "dateLabel": "6/18/2026, 12:14:28 PM - 6/18/2026, 1:04:59 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260618-121428-g8hj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260618-082403-hb0i",
       "title": "Emo Radee, R A D E E",
       "commanders": [
