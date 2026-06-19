@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260619-114812-qwjx",
+      "title": "X Kears",
+      "commanders": [
+        "X Kears"
+      ],
+      "dateStart": "2026-06-19T03:48:12.000Z",
+      "dateEnd": "2026-06-19T04:50:56.000Z",
+      "dateLabel": "6/19/2026, 11:48:12 AM - 6/19/2026, 12:50:56 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260619-114812-qwjx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260618-211800-s3v8",
       "title": "Nyoôm, The Blöop",
       "commanders": [
