@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260619-220044-g84z",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "dateStart": "2026-06-19T14:00:44.000Z",
+      "dateEnd": "2026-06-19T15:20:41.000Z",
+      "dateLabel": "6/19/2026, 10:00:44 PM - 6/19/2026, 11:20:41 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260619-220044-g84z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260619-114812-qwjx",
       "title": "X Kears",
       "commanders": [
