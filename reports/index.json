@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260620-212453-pja8",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "dateStart": "2026-06-20T13:24:53.000Z",
+      "dateEnd": "2026-06-20T15:03:17.000Z",
+      "dateLabel": "6/20/2026, 9:24:53 PM - 6/20/2026, 11:03:17 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260620-212453-pja8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260619-220044-g84z",
       "title": "Carvis Onachrono",
       "commanders": [
