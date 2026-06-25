@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260625-123411-f1t2",
+      "title": "X Kears",
+      "commanders": [
+        "X Kears"
+      ],
+      "dateStart": "2026-06-25T04:34:11.000Z",
+      "dateEnd": "2026-06-25T05:06:31.000Z",
+      "dateLabel": "6/25/2026, 12:34:11 PM - 6/25/2026, 1:06:31 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260625-123411-f1t2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260624-215108-u1l6",
       "title": "Furry Fluffy Fur",
       "commanders": [
