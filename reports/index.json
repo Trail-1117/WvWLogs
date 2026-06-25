@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260625-185436-7h6m",
+      "title": "Sakura Lvcy",
+      "commanders": [
+        "Sakura Lvcy"
+      ],
+      "dateStart": "2026-06-25T10:54:36.000Z",
+      "dateEnd": "2026-06-25T11:59:09.000Z",
+      "dateLabel": "6/25/2026, 6:54:36 PM - 6/25/2026, 7:59:09 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260625-185436-7h6m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260625-123411-f1t2",
       "title": "X Kears",
       "commanders": [
