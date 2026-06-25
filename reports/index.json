@@ -4,6 +4,36 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260625-211259-k4q1",
+      "title": "Its Bloop, Nyoôm, The Blöop",
+      "commanders": [
+        "Its Bloop",
+        "Nyoôm",
+        "The Blöop"
+      ],
+      "dateStart": "2026-06-25T13:12:59.000Z",
+      "dateEnd": "2026-06-25T14:50:51.000Z",
+      "dateLabel": "6/25/2026, 9:12:59 PM - 6/25/2026, 10:50:51 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260625-211259-k4q1",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260625-185436-7h6m",
       "title": "Sakura Lvcy",
       "commanders": [
