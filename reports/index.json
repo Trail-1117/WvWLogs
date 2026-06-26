@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260626-123936-386t",
+      "title": "Kearserges, X Kears",
+      "commanders": [
+        "Kearserges",
+        "X Kears"
+      ],
+      "dateStart": "2026-06-26T04:39:36.000Z",
+      "dateEnd": "2026-06-26T05:11:32.000Z",
+      "dateLabel": "6/26/2026, 12:39:36 PM - 6/26/2026, 1:11:32 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260626-123936-386t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260625-211259-k4q1",
       "title": "Its Bloop, Nyoôm, The Blöop",
       "commanders": [
