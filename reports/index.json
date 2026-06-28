@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260628-213020-j8ve",
+      "title": "The Bloöp, The Nyoom",
+      "commanders": [
+        "The Bloöp",
+        "The Nyoom"
+      ],
+      "dateStart": "2026-06-28T13:30:20.000Z",
+      "dateEnd": "2026-06-28T14:31:20.000Z",
+      "dateLabel": "6/28/2026, 9:30:20 PM - 6/28/2026, 10:31:20 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260628-213020-j8ve",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260626-123936-386t",
       "title": "Kearserges, X Kears",
       "commanders": [
