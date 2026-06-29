@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260629-092032-30g0",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "dateStart": "2026-06-29T01:20:32.000Z",
+      "dateEnd": "2026-06-29T02:17:44.000Z",
+      "dateLabel": "6/29/2026, 9:20:32 AM - 6/29/2026, 10:17:44 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260629-092032-30g0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 38,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260628-213020-j8ve",
       "title": "The Bloöp, The Nyoom",
       "commanders": [
