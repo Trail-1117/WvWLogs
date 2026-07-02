@@ -4,6 +4,31 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260702-213212-syxy",
+      "title": "Its Bloop, Nyoôm, The Bloop",
+      "commanders": [
+        "Its Bloop",
+        "Nyoôm",
+        "The Bloop"
+      ],
+      "dateStart": "2026-07-02T13:32:12.000Z",
+      "dateEnd": "2026-07-02T14:28:13.000Z",
+      "dateLabel": "7/2/2026, 9:32:12 PM - 7/2/2026, 10:28:13 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260702-213212-syxy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260701-082855-nvgb",
       "title": "Ebs Nine",
       "commanders": [
