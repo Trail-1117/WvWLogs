@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260703-221714-5fqo",
+      "title": "Mithril Champion",
+      "commanders": [
+        "Mithril Champion"
+      ],
+      "dateStart": "2026-07-03T14:17:14.000Z",
+      "dateEnd": "2026-07-03T14:57:39.000Z",
+      "dateLabel": "7/3/2026, 10:17:14 PM - 7/3/2026, 10:57:39 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260703-221714-5fqo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260702-213212-syxy",
       "title": "Its Bloop, Nyoôm, The Bloop",
       "commanders": [
