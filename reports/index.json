@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260709-204903-idlp",
+      "title": "Nyoôm",
+      "commanders": [
+        "Nyoôm"
+      ],
+      "dateStart": "2026-07-09T12:49:03.000Z",
+      "dateEnd": "2026-07-09T14:22:41.000Z",
+      "dateLabel": "7/9/2026, 8:49:03 PM - 7/9/2026, 10:22:41 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260709-204903-idlp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260708-220817-0irq",
       "title": "Furry Fluffy Fur",
       "commanders": [
