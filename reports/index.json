@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260716-080524-1r0y",
+      "title": "Evo Cuddlebunny",
+      "commanders": [
+        "Evo Cuddlebunny"
+      ],
+      "dateStart": "2026-07-16T00:05:24.000Z",
+      "dateEnd": "2026-07-16T01:54:53.000Z",
+      "dateLabel": "7/16/2026, 8:05:24 AM - 7/16/2026, 9:54:53 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260716-080524-1r0y",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260712-203604-nw0d",
       "title": "The Bloöp",
       "commanders": [
