@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260716-213716-v7lh",
+      "title": "Its Bloop, Nyoôm",
+      "commanders": [
+        "Its Bloop",
+        "Nyoôm"
+      ],
+      "dateStart": "2026-07-16T13:37:16.000Z",
+      "dateEnd": "2026-07-16T14:57:51.000Z",
+      "dateLabel": "7/16/2026, 9:37:16 PM - 7/16/2026, 10:57:51 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260716-213716-v7lh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260716-080524-1r0y",
       "title": "Evo Cuddlebunny",
       "commanders": [
