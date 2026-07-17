@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260717-080420-fxhj",
+      "title": "Evo Cuddlebunny, Moody Delightful",
+      "commanders": [
+        "Evo Cuddlebunny",
+        "Moody Delightful"
+      ],
+      "dateStart": "2026-07-17T00:04:20.000Z",
+      "dateEnd": "2026-07-17T01:59:39.000Z",
+      "dateLabel": "7/17/2026, 8:04:20 AM - 7/17/2026, 9:59:39 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260717-080420-fxhj",
+      "summary": {
+        "borderlandsPct": 0.3888888888888889,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260716-213716-v7lh",
       "title": "Its Bloop, Nyoôm",
       "commanders": [
