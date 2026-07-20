@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260720-213135-7243",
+      "title": "Furry Fluffy Fur, Teeny Tiny Toes",
+      "commanders": [
+        "Furry Fluffy Fur",
+        "Teeny Tiny Toes"
+      ],
+      "dateStart": "2026-07-20T13:31:35.000Z",
+      "dateEnd": "2026-07-20T14:54:22.000Z",
+      "dateLabel": "7/20/2026, 9:31:35 PM - 7/20/2026, 10:54:22 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260720-213135-7243",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260720-090414-ztyb",
       "title": "Evo Cuddlebunny",
       "commanders": [
