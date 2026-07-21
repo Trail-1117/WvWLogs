@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260721-091644-phe8",
+      "title": "Evo Yummybear, Moody Delightful",
+      "commanders": [
+        "Evo Yummybear",
+        "Moody Delightful"
+      ],
+      "dateStart": "2026-07-21T01:16:44.000Z",
+      "dateEnd": "2026-07-21T01:56:35.000Z",
+      "dateLabel": "7/21/2026, 9:16:44 AM - 7/21/2026, 9:56:35 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260721-091644-phe8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260720-213135-7243",
       "title": "Furry Fluffy Fur, Teeny Tiny Toes",
       "commanders": [
