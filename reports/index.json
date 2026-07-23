@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260723-082205-gpr4",
+      "title": "Evo Cuddlebunny",
+      "commanders": [
+        "Evo Cuddlebunny"
+      ],
+      "dateStart": "2026-07-23T00:22:05.000Z",
+      "dateEnd": "2026-07-23T01:54:24.000Z",
+      "dateLabel": "7/23/2026, 8:22:05 AM - 7/23/2026, 9:54:24 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260723-082205-gpr4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260721-211216-3cn0",
       "title": "The Bloöp",
       "commanders": [
