@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260723-213821-j29p",
+      "title": "Nyoôm",
+      "commanders": [
+        "Nyoôm"
+      ],
+      "dateStart": "2026-07-23T13:38:21.000Z",
+      "dateEnd": "2026-07-23T14:34:16.000Z",
+      "dateLabel": "7/23/2026, 9:38:21 PM - 7/23/2026, 10:34:16 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260723-213821-j29p",
+      "summary": {
+        "borderlandsPct": 0.16129032258064516,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260723-082205-gpr4",
       "title": "Evo Cuddlebunny",
       "commanders": [
