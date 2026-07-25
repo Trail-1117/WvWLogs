@@ -1,8 +1,31 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
-  "glassmorphic": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260725-101856-lerq",
+      "title": "Diamond Knight",
+      "commanders": [
+        "Diamond Knight"
+      ],
+      "dateStart": "2026-07-25T02:18:56.000Z",
+      "dateEnd": "2026-07-25T03:03:12.000Z",
+      "dateLabel": "7/25/2026, 10:18:56 AM - 7/25/2026, 11:03:12 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260725-101856-lerq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20260723-213821-j29p",
       "title": "Nyoôm",
