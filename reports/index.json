@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-215911-h7bh",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-07-26T13:59:11.000Z",
+      "dateEnd": "2026-07-26T14:51:43.000Z",
+      "dateLabel": "7/26/2026, 9:59:11 PM - 7/26/2026, 10:51:43 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260726-215911-h7bh",
+      "summary": {
+        "borderlandsPct": 0.037037037037037035,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260726-101016-br1p",
       "title": "Diamond Footman",
       "commanders": [
