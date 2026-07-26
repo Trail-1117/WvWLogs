@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-092606-6y4h",
+      "title": "Diamond Footman",
+      "commanders": [
+        "Diamond Footman"
+      ],
+      "dateStart": "2026-07-26T01:26:06.000Z",
+      "dateEnd": "2026-07-26T02:00:27.000Z",
+      "dateLabel": "7/26/2026, 9:26:06 AM - 7/26/2026, 10:00:27 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260726-092606-6y4h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260725-111855-kt4y",
       "title": "Diamond Footman",
       "commanders": [
