@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-214225-84dx",
+      "title": "Nyoôm, The Bloop",
+      "commanders": [
+        "Nyoôm",
+        "The Bloop"
+      ],
+      "dateStart": "2026-07-30T13:42:25.000Z",
+      "dateEnd": "2026-07-30T14:42:28.000Z",
+      "dateLabel": "7/30/2026, 9:42:25 PM - 7/30/2026, 10:42:28 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260730-214225-84dx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260728-205643-feao",
       "title": "The Bloöp",
       "commanders": [
