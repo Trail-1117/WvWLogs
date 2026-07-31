@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-083348-h6n9",
+      "title": "Moody Delightful",
+      "commanders": [
+        "Moody Delightful"
+      ],
+      "dateStart": "2026-07-31T00:33:48.000Z",
+      "dateEnd": "2026-07-31T01:53:55.000Z",
+      "dateLabel": "7/31/2026, 8:33:48 AM - 7/31/2026, 9:53:55 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260731-083348-h6n9",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260730-214225-84dx",
       "title": "Nyoôm, The Bloop",
       "commanders": [
