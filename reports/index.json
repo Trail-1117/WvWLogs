@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-111813-v11i",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-01T03:18:13.000Z",
+      "dateEnd": "2026-08-01T04:00:53.000Z",
+      "dateLabel": "8/1/2026, 11:18:13 AM - 8/1/2026, 12:00:53 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260801-111813-v11i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260731-083348-h6n9",
       "title": "Moody Delightful",
       "commanders": [
