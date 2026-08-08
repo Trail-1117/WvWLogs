@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-213031-5uce",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-08T13:30:31.000Z",
+      "dateEnd": "2026-08-08T14:37:39.000Z",
+      "dateLabel": "8/8/2026, 9:30:31 PM - 8/8/2026, 10:37:39 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260808-213031-5uce",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260808-103807-5boy",
       "title": "Hârâshô, Kilo Watts",
       "commanders": [
