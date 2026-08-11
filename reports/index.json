@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260811-104140-icoc",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-11T02:41:40.000Z",
+      "dateEnd": "2026-08-11T03:27:53.000Z",
+      "dateLabel": "8/11/2026, 10:41:40 AM - 8/11/2026, 11:27:53 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260811-104140-icoc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260811-090239-pi85",
       "title": "Prez Ashton",
       "commanders": [
