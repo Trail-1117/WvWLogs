@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-101538-tgje",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-14T02:15:38.000Z",
+      "dateEnd": "2026-08-14T03:01:55.000Z",
+      "dateLabel": "8/14/2026, 10:15:38 AM - 8/14/2026, 11:01:55 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260814-101538-tgje",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 34,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260813-082009-uspy",
       "title": "Fíbbs",
       "commanders": [
