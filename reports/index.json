@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-102804-71gg",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-15T02:28:04.000Z",
+      "dateEnd": "2026-08-15T03:19:07.000Z",
+      "dateLabel": "8/15/2026, 10:28:04 AM - 8/15/2026, 11:19:07 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260815-102804-71gg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260814-101538-tgje",
       "title": "Mesmer Kamoidra",
       "commanders": [
