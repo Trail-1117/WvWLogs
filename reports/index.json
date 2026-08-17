@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-181628-pocd",
+      "title": "Wihok Kra Dée",
+      "commanders": [
+        "Wihok Kra Dée"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-17T10:16:28.000Z",
+      "dateEnd": "2026-08-17T11:36:23.000Z",
+      "dateLabel": "8/17/2026, 6:16:28 PM - 8/17/2026, 7:36:23 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260817-181628-pocd",
+      "summary": {
+        "borderlandsPct": 0.06666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260817-115147-v7u4",
       "title": "Tilted Illusion",
       "commanders": [
