@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-091544-4dzf",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-18T01:15:44.000Z",
+      "dateEnd": "2026-08-18T01:54:07.000Z",
+      "dateLabel": "8/18/2026, 9:15:44 AM - 8/18/2026, 9:54:07 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260818-091544-4dzf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260817-181628-pocd",
       "title": "Wihok Kra Dée",
       "commanders": [
