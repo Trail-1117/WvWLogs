@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-182114-ftf4",
+      "title": "Wihok Kra Dée",
+      "commanders": [
+        "Wihok Kra Dée"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-18T10:21:14.000Z",
+      "dateEnd": "2026-08-18T11:26:34.000Z",
+      "dateLabel": "8/18/2026, 6:21:14 PM - 8/18/2026, 7:26:34 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260818-182114-ftf4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260818-103816-n4cj",
       "title": "Tilted Illusion",
       "commanders": [
