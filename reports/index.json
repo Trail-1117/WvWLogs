@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-091438-vcfq",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-20T01:14:38.000Z",
+      "dateEnd": "2026-08-20T02:22:13.256Z",
+      "dateLabel": "8/20/2026, 9:14:38 AM - 8/20/2026, 10:22:13 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260820-091438-vcfq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260818-182114-ftf4",
       "title": "Wihok Kra Dée",
       "commanders": [
