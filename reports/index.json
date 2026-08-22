@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-205958-8xd5",
+      "title": "Wîhok, Wihok Kra Dée",
+      "commanders": [
+        "Wîhok",
+        "Wihok Kra Dée"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-08-22T12:59:58.000Z",
+      "dateEnd": "2026-08-22T14:06:45.226Z",
+      "dateLabel": "8/22/2026, 8:59:58 PM - 8/22/2026, 10:06:45 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260822-205958-8xd5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260822-105452-x9sa",
       "title": "Hârâshô",
       "commanders": [
