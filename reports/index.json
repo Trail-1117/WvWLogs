@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-105452-x9sa",
+      "title": "Hârâshô",
+      "commanders": [
+        "Hârâshô"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-22T02:54:52.000Z",
+      "dateEnd": "2026-08-22T03:56:22.027Z",
+      "dateLabel": "8/22/2026, 10:54:52 AM - 8/22/2026, 11:56:22 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260822-105452-x9sa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260820-210348-wi7g",
       "title": "Blooperinö, Nyoôm",
       "commanders": [
