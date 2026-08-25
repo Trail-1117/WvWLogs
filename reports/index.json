@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-085723-hatu",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-25T00:57:23.000Z",
+      "dateEnd": "2026-08-25T01:57:22.353Z",
+      "dateLabel": "8/25/2026, 8:57:23 AM - 8/25/2026, 9:57:22 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260825-085723-hatu",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260824-084328-gdwm",
       "title": "Lightspeed Jack",
       "commanders": [
