@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-101539-nfub",
+      "title": "Diamond Footman",
+      "commanders": [
+        "Diamond Footman"
+      ],
+      "guild": {
+        "id": "44E4F9E6-2F4A-EF11-8465-02315AB41281",
+        "name": "We Only Spike Once",
+        "tag": "WOSO"
+      },
+      "dateStart": "2026-08-26T02:15:39.000Z",
+      "dateEnd": "2026-08-26T02:58:01.425Z",
+      "dateLabel": "8/26/2026, 10:15:39 AM - 8/26/2026, 10:58:01 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260826-101539-nfub",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260826-090853-ul9b",
       "title": "Fíbbs",
       "commanders": [
