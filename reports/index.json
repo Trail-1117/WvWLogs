@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-083730-3vm4",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-27T00:37:30.000Z",
+      "dateEnd": "2026-08-27T01:37:52.382Z",
+      "dateLabel": "8/27/2026, 8:37:30 AM - 8/27/2026, 9:37:52 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260827-083730-3vm4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260826-101539-lvhv",
       "title": "Diamond Footman",
       "commanders": [
