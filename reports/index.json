@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-220831-e8s0",
+      "title": "Jerichoya",
+      "commanders": [
+        "Jerichoya"
+      ],
+      "guild": {
+        "id": "28680AEB-6963-E611-80D4-E4115BDFF975",
+        "name": "Mada",
+        "tag": "Mada"
+      },
+      "dateStart": "2026-08-30T14:08:31.000Z",
+      "dateEnd": "2026-08-30T14:52:12.452Z",
+      "dateLabel": "8/30/2026, 10:08:31 PM - 8/30/2026, 10:52:12 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260830-220831-e8s0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260830-093455-ntxz",
       "title": "Dub Grumble",
       "commanders": [
