@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-093455-ntxz",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-30T01:34:55.000Z",
+      "dateEnd": "2026-08-30T02:48:48.491Z",
+      "dateLabel": "8/30/2026, 9:34:55 AM - 8/30/2026, 10:48:48 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260830-093455-ntxz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260829-221732-37c8",
       "title": "Wîhok",
       "commanders": [
