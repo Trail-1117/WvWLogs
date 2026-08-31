@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-083719-q89s",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-31T00:37:19.000Z",
+      "dateEnd": "2026-08-31T02:11:35.061Z",
+      "dateLabel": "8/31/2026, 8:37:19 AM - 8/31/2026, 10:11:35 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260831-083719-q89s",
+      "summary": {
+        "borderlandsPct": 0.5263157894736842,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260830-220831-e8s0",
       "title": "Jerichoya",
       "commanders": [
