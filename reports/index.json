@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-212936-hojy",
+      "title": "Wîhok",
+      "commanders": [
+        "Wîhok"
+      ],
+      "guild": {
+        "id": "F76938FA-EDDF-ED11-81A9-8FB5CFBE7766",
+        "name": "Toit Miekan Siipi Taisteluun",
+        "tag": "Bee"
+      },
+      "dateStart": "2026-08-31T13:29:36.000Z",
+      "dateEnd": "2026-08-31T15:10:32.351Z",
+      "dateLabel": "8/31/2026, 9:29:36 PM - 8/31/2026, 11:10:32 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260831-212936-hojy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260831-083719-q89s",
       "title": "Lightspeed Jack",
       "commanders": [
