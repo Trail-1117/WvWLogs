@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-211457-29nf",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-08T13:14:57.000Z",
+      "dateEnd": "2026-09-08T14:05:52.013Z",
+      "dateLabel": "9/8/2026, 9:14:57 PM - 9/8/2026, 10:05:52 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260908-211457-29nf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260908-093411-40re",
       "title": "Not Haro",
       "commanders": [
