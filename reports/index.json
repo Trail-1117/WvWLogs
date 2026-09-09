@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-102159-hnmh",
+      "title": "Mithril Raider",
+      "commanders": [
+        "Mithril Raider"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-09T02:21:59.000Z",
+      "dateEnd": "2026-09-09T03:16:25.857Z",
+      "dateLabel": "9/9/2026, 10:21:59 AM - 9/9/2026, 11:16:25 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260909-102159-hnmh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260909-075103-9e7z",
       "title": "Lightspeed Jack",
       "commanders": [
