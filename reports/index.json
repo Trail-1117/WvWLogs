@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-192137-qooc",
+      "title": "Mr Draeyon",
+      "commanders": [
+        "Mr Draeyon"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-09-10T11:21:37.000Z",
+      "dateEnd": "2026-09-10T11:58:09.581Z",
+      "dateLabel": "9/10/2026, 7:21:37 PM - 9/10/2026, 7:58:09 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260910-192137-qooc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260910-083437-mvi6",
       "title": "Fíbbs",
       "commanders": [
