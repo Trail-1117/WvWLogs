@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-210045-9uci",
+      "title": "Riddle Returns",
+      "commanders": [
+        "Riddle Returns"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-10T13:00:45.000Z",
+      "dateEnd": "2026-09-10T13:54:48.867Z",
+      "dateLabel": "9/10/2026, 9:00:45 PM - 9/10/2026, 9:54:48 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260910-210045-9uci",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260910-192137-qooc",
       "title": "Mr Draeyon",
       "commanders": [
