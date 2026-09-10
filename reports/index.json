@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-083437-mvi6",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-10T00:34:37.000Z",
+      "dateEnd": "2026-09-10T01:37:27.592Z",
+      "dateLabel": "9/10/2026, 8:34:37 AM - 9/10/2026, 9:37:27 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260910-083437-mvi6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260909-102159-hnmh",
       "title": "Mithril Raider",
       "commanders": [
