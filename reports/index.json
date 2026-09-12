@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-101302-2w7h",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-12T02:13:02.000Z",
+      "dateEnd": "2026-09-12T03:00:26.311Z",
+      "dateLabel": "9/12/2026, 10:13:02 AM - 9/12/2026, 11:00:26 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260912-101302-2w7h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20260910-210045-9uci",
       "title": "Riddle Returns",
       "commanders": [
