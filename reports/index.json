@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-095648-byxg",
+      "title": "Prez Ashtonn",
+      "commanders": [
+        "Prez Ashtonn"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-15T01:56:48.000Z",
+      "dateEnd": "2026-09-15T02:29:38.844Z",
+      "dateLabel": "9/15/2026, 9:56:48 AM - 9/15/2026, 10:29:38 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260915-095648-byxg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260914-081157-az6k",
       "title": "Lightspeed Jack",
       "commanders": [
