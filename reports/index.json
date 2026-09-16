@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260916-084233-6w4q",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-16T00:42:33.000Z",
+      "dateEnd": "2026-09-16T02:03:39.168Z",
+      "dateLabel": "9/16/2026, 8:42:33 AM - 9/16/2026, 10:03:39 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260916-084233-6w4q",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260915-190315-lkfx",
       "title": "Squirel Halucinates",
       "commanders": [
