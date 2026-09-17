@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260917-091638-dqep",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-17T01:16:38.000Z",
+      "dateEnd": "2026-09-17T01:56:36.810Z",
+      "dateLabel": "9/17/2026, 9:16:38 AM - 9/17/2026, 9:56:36 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260917-091638-dqep",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260916-192801-o5l6",
       "title": "Squirel Halucinates",
       "commanders": [
