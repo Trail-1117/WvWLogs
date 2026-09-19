@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-204930-xgci",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-19T12:49:30.000Z",
+      "dateEnd": "2026-09-19T13:33:01.450Z",
+      "dateLabel": "9/19/2026, 8:49:30 PM - 9/19/2026, 9:33:01 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260919-204930-xgci",
+      "summary": {
+        "borderlandsPct": 0.3076923076923077,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260917-091638-dqep",
       "title": "Fíbbs",
       "commanders": [
