@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-215536-cqz2",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "BBC7CDF4-0241-E611-80D4-E4115BDFF975",
+        "name": "World Elite",
+        "tag": "WE"
+      },
+      "dateStart": "2026-09-20T13:55:36.000Z",
+      "dateEnd": "2026-09-20T14:59:44.253Z",
+      "dateLabel": "9/20/2026, 9:55:36 PM - 9/20/2026, 10:59:44 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260920-215536-cqz2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260920-090721-u4pm",
       "title": "Dub Grumble",
       "commanders": [
