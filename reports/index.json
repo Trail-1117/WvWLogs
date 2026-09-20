@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-090721-u4pm",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-20T01:07:21.000Z",
+      "dateEnd": "2026-09-20T02:04:45.259Z",
+      "dateLabel": "9/20/2026, 9:07:21 AM - 9/20/2026, 10:04:45 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260920-090721-u4pm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260919-204930-xgci",
       "title": "Sêxy Riddle",
       "commanders": [
