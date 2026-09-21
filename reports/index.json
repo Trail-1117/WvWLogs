@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-205846-bdb9",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-21T12:58:46.000Z",
+      "dateEnd": "2026-09-21T13:55:29.836Z",
+      "dateLabel": "9/21/2026, 8:58:46 PM - 9/21/2026, 9:55:29 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260921-205846-bdb9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260921-092558-ypjv",
       "title": "Lightspeed Jack",
       "commanders": [
