@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-092558-ypjv",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-21T01:25:58.000Z",
+      "dateEnd": "2026-09-21T02:03:14.037Z",
+      "dateLabel": "9/21/2026, 9:25:58 AM - 9/21/2026, 10:03:14 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260921-092558-ypjv",
+      "summary": {
+        "borderlandsPct": 0.975609756097561,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260920-215536-cqz2",
       "title": "Sêxy Riddle",
       "commanders": [
