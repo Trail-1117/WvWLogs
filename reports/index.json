@@ -5,6 +5,34 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260923-210049-nfnh",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-23T13:00:49.000Z",
+      "dateEnd": "2026-09-23T13:20:01.406Z",
+      "dateLabel": "9/23/2026, 9:00:49 PM - 9/23/2026, 9:20:01 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260923-210049-nfnh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260923-101938-fdti",
       "title": "Mrs Umezawa, Trásh Can",
       "commanders": [
