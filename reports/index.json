@@ -5,6 +5,39 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260927-090510-j1dt",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-27T01:05:10.000Z",
+      "dateEnd": "2026-09-27T03:08:31.571Z",
+      "dateLabel": "9/27/2026, 9:05:10 AM - 9/27/2026, 11:08:31 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260927-090510-j1dt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260925-105039-fbr7",
       "title": "Öptussy",
       "commanders": [
