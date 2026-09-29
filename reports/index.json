@@ -5,6 +5,34 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260929-104134-50x6",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-29T02:41:34.000Z",
+      "dateEnd": "2026-09-29T03:38:40.720Z",
+      "dateLabel": "9/29/2026, 10:41:34 AM - 9/29/2026, 11:38:40 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260929-104134-50x6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260929-084804-twew",
       "title": "Not Haro",
       "commanders": [
