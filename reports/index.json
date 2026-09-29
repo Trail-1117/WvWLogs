@@ -5,6 +5,44 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260929-084804-twew",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-29T00:48:04.000Z",
+      "dateEnd": "2026-09-29T02:10:48.991Z",
+      "dateLabel": "9/29/2026, 8:48:04 AM - 9/29/2026, 10:10:48 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260929-084804-twew",
+      "summary": {
+        "borderlandsPct": 0.75,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260928-091134-9xfd",
       "title": "Diamond Knight",
       "commanders": [
