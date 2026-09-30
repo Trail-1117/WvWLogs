@@ -5,6 +5,34 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260930-091922-04gy",
+      "title": "Diamond Knight",
+      "commanders": [
+        "Diamond Knight"
+      ],
+      "guild": {
+        "id": "3067C063-6BA6-F111-BB1F-12683E7B69EB",
+        "name": "Smooth Brain Brigade",
+        "tag": "sBb"
+      },
+      "dateStart": "2026-09-30T01:19:22.000Z",
+      "dateEnd": "2026-09-30T01:58:26.658Z",
+      "dateLabel": "9/30/2026, 9:19:22 AM - 9/30/2026, 9:58:26 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20260930-091922-04gy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260929-104134-50x6",
       "title": "Tilted Illusion",
       "commanders": [
