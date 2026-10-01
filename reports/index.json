@@ -5,6 +5,41 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20261001-103055-45vc",
+      "title": "Ironclone, Prez Ashtonn, Prezz Ashtonn",
+      "commanders": [
+        "Ironclone",
+        "Prez Ashtonn",
+        "Prezz Ashtonn"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-10-01T02:30:55.000Z",
+      "dateEnd": "2026-10-01T02:54:47.636Z",
+      "dateLabel": "10/1/2026, 10:30:55 AM - 10/1/2026, 10:54:47 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20261001-103055-45vc",
+      "summary": {
+        "borderlandsPct": 0.8518518518518519,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261001-084039-gn0w",
       "title": "Fíbbs",
       "commanders": [
