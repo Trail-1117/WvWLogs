@@ -1,9 +1,38 @@
 {
   "colorPalette": "axi-gold",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": true,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261001-191221-iioj",
+      "title": "Mr Draeyon, Squirel Halucinates",
+      "commanders": [
+        "Mr Draeyon",
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-10-01T11:12:21.000Z",
+      "dateEnd": "2026-10-01T11:55:53.419Z",
+      "dateLabel": "10/1/2026, 7:12:21 PM - 10/1/2026, 7:55:53 PM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20261001-191221-iioj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261001-103055-45vc",
       "title": "Ironclone, Prez Ashtonn, Prezz Ashtonn",
