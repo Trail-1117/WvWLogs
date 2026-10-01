@@ -5,6 +5,39 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20261001-084039-gn0w",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-01T00:40:39.000Z",
+      "dateEnd": "2026-10-01T01:26:36.288Z",
+      "dateLabel": "10/1/2026, 8:40:39 AM - 10/1/2026, 9:26:36 AM",
+      "url": "https://Trail-1117.github.io/WvWLogs/?report=20261001-084039-gn0w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260930-091922-04gy",
       "title": "Diamond Knight",
       "commanders": [
