@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261008-180612-37t9",
+      "title": "Mr Draeyon",
+      "commanders": [
+        "Mr Draeyon"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-10-08T10:06:12.000Z",
+      "dateEnd": "2026-10-08T10:49:14.173Z",
+      "dateLabel": "10/8/2026, 6:06:12 PM - 10/8/2026, 6:49:14 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261008-180612-37t9",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261008-083926-od4z",
       "title": "Tilted Illusion",
       "commanders": [
