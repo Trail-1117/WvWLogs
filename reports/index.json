@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261008-083926-od4z",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-08T00:39:26.000Z",
+      "dateEnd": "2026-10-08T02:10:15.521Z",
+      "dateLabel": "10/8/2026, 8:39:26 AM - 10/8/2026, 10:10:15 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261008-083926-od4z",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 53
+      }
+    },
     {
       "id": "20261001-191221-iioj",
       "title": "Mr Draeyon, Squirel Halucinates",
