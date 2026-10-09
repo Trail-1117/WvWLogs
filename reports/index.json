@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261009-091135-chl4",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-09T01:11:35.000Z",
+      "dateEnd": "2026-10-09T01:54:25.350Z",
+      "dateLabel": "10/9/2026, 9:11:35 AM - 10/9/2026, 9:54:25 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261009-091135-chl4",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20261008-180612-37t9",
       "title": "Mr Draeyon",
       "commanders": [
