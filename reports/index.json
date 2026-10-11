@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261011-091746-ax25",
+      "title": "Mesmer Kamoidra, Pptmander Harasho",
+      "commanders": [
+        "Mesmer Kamoidra",
+        "Pptmander Harasho"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-11T01:17:46.000Z",
+      "dateEnd": "2026-10-11T02:10:09.078Z",
+      "dateLabel": "10/11/2026, 9:17:46 AM - 10/11/2026, 10:10:09 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261011-091746-ax25",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261009-214909-1onu",
       "title": "Sêxy Riddle",
       "commanders": [
