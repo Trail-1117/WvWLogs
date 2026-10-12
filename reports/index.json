@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-075245-qrpo",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-11T23:52:45.000Z",
+      "dateEnd": "2026-10-12T00:49:51.295Z",
+      "dateLabel": "10/12/2026, 7:52:45 AM - 10/12/2026, 8:49:51 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261012-075245-qrpo",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261011-091746-ax25",
       "title": "Mesmer Kamoidra, Pptmander Harasho",
