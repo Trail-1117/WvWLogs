@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261013-090223-8o1v",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-13T01:02:23.000Z",
+      "dateEnd": "2026-10-13T02:01:30.873Z",
+      "dateLabel": "10/13/2026, 9:02:23 AM - 10/13/2026, 10:01:30 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261013-090223-8o1v",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261012-222209-mfkh",
       "title": "Riddle Returns",
       "commanders": [
