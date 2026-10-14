@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261014-080639-p37g",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-14T00:06:39.000Z",
+      "dateEnd": "2026-10-14T01:35:58.671Z",
+      "dateLabel": "10/14/2026, 8:06:39 AM - 10/14/2026, 9:35:58 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261014-080639-p37g",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261013-090223-8o1v",
       "title": "Not Haro",
       "commanders": [
