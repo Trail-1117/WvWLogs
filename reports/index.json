@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261016-090348-7fby",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-16T01:03:48.000Z",
+      "dateEnd": "2026-10-16T01:39:50.149Z",
+      "dateLabel": "10/16/2026, 9:03:48 AM - 10/16/2026, 9:39:50 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261016-090348-7fby",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0.9230769230769231,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20261015-082600-b7ti",
       "title": "Fíbbs",
       "commanders": [
