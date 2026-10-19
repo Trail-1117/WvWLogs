@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261019-205244-eh57",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-10-19T12:52:44.000Z",
+      "dateEnd": "2026-10-19T14:06:21.238Z",
+      "dateLabel": "10/19/2026, 8:52:44 PM - 10/19/2026, 10:06:21 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261019-205244-eh57",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20261019-181405-jvkj",
       "title": "Mr Draeyon, Squirel Halucinates",
       "commanders": [
