@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261019-091033-79ju",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "44E4F9E6-2F4A-EF11-8465-02315AB41281",
+        "name": "We Only Spike Once",
+        "tag": "WOSO"
+      },
+      "dateStart": "2026-10-19T01:10:33.000Z",
+      "dateEnd": "2026-10-19T01:59:23.921Z",
+      "dateLabel": "10/19/2026, 9:10:33 AM - 10/19/2026, 9:59:23 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261019-091033-79ju",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20261017-205957-dpx0",
       "title": "Oyosss",
