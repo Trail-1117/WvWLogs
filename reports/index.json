@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261021-221950-x9an",
+      "title": "S H Y I",
+      "commanders": [
+        "S H Y I"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-10-21T14:19:50.000Z",
+      "dateEnd": "2026-10-21T14:58:36.328Z",
+      "dateLabel": "10/21/2026, 10:19:50 PM - 10/21/2026, 10:58:36 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261021-221950-x9an",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20261021-094919-vt7f",
       "title": "Öptussy",
       "commanders": [
