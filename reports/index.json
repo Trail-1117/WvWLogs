@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261022-181823-f0j6",
+      "title": "Erza Knightwálkér, Hime Utsumiya",
+      "commanders": [
+        "Erza Knightwálkér",
+        "Hime Utsumiya"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-10-22T10:18:23.000Z",
+      "dateEnd": "2026-10-22T11:00:22.028Z",
+      "dateLabel": "10/22/2026, 6:18:23 PM - 10/22/2026, 7:00:22 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261022-181823-f0j6",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261022-181823-00ls",
       "title": "Erza Knightwálkér, Hime Utsumiya",
       "commanders": [
