@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261029-083800-cty7",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-29T00:38:00.000Z",
+      "dateEnd": "2026-10-29T01:22:56.067Z",
+      "dateLabel": "10/29/2026, 8:38:00 AM - 10/29/2026, 9:22:56 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261029-083800-cty7",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0.6875,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261028-085521-lrh5",
       "title": "Lightspeed Jack",
       "commanders": [
