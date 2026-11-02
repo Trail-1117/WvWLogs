@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-173633-h1sy",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-11-01T09:36:33.000Z",
+      "dateEnd": "2026-11-01T09:59:58.387Z",
+      "dateLabel": "11/1/2026, 5:36:33 PM - 11/1/2026, 5:59:58 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261101-173633-h1sy",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20261102-090205-mit9",
       "title": "Lightspeed Jack",
       "commanders": [
