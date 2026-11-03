@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-172601-hewm",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-11-03T09:26:01.000Z",
+      "dateEnd": "2026-11-03T10:41:18.049Z",
+      "dateLabel": "11/3/2026, 5:26:01 PM - 11/3/2026, 6:41:18 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261103-172601-hewm",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261101-180332-bf0s",
       "title": "Erza Knightwálkér",
