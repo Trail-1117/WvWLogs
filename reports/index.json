@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-174254-6mpu",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-11-07T09:42:54.000Z",
+      "dateEnd": "2026-11-07T11:08:27.146Z",
+      "dateLabel": "11/7/2026, 5:42:54 PM - 11/7/2026, 7:08:27 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261107-174254-6mpu",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261104-112832-svax",
       "title": "Öptussy",
