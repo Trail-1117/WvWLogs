@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261108-175441-pxch",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-11-08T09:54:41.000Z",
+      "dateEnd": "2026-11-08T10:57:38.490Z",
+      "dateLabel": "11/8/2026, 5:54:41 PM - 11/8/2026, 6:57:38 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261108-175441-pxch",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20261107-174254-6mpu",
       "title": "Squirel Halucinates",
       "commanders": [
