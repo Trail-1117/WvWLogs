@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261109-221122-36kt",
+      "title": "Riddle Returns",
+      "commanders": [
+        "Riddle Returns"
+      ],
+      "guild": {
+        "id": "BBC7CDF4-0241-E611-80D4-E4115BDFF975",
+        "name": "World Elite",
+        "tag": "WE"
+      },
+      "dateStart": "2026-11-09T14:11:22.000Z",
+      "dateEnd": "2026-11-09T14:41:29.928Z",
+      "dateLabel": "11/9/2026, 10:11:22 PM - 11/9/2026, 10:41:29 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261109-221122-36kt",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261109-085922-o82m",
       "title": "Lightspeed Jack",
       "commanders": [
