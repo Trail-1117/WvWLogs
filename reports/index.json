@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261110-103826-cdve",
+      "title": "Waifu Enjoyer",
+      "commanders": [
+        "Waifu Enjoyer"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-11-10T02:38:26.000Z",
+      "dateEnd": "2026-11-10T03:27:12.714Z",
+      "dateLabel": "11/10/2026, 10:38:26 AM - 11/10/2026, 11:27:12 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261110-103826-cdve",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261109-221122-36kt",
       "title": "Riddle Returns",
       "commanders": [
