@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.24.0"
   },
   "entries": [
+    {
+      "id": "20261111-110531-r9c9",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "1AAB9713-29A7-F111-BB1F-12683E7B69EB",
+        "name": "Big Ol Booty Biatches",
+        "tag": "BOBB"
+      },
+      "dateStart": "2026-11-11T03:05:31.000Z",
+      "dateEnd": "2026-11-11T03:36:06.751Z",
+      "dateLabel": "11/11/2026, 11:05:31 AM - 11/11/2026, 11:36:06 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261111-110531-r9c9",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261110-103826-cdve",
       "title": "Waifu Enjoyer",
