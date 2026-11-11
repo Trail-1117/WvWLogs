@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.24.0"
+    "version": "3.24.1"
   },
   "entries": [
+    {
+      "id": "20261111-213324-lhpo",
+      "title": "Riddle Returns",
+      "commanders": [
+        "Riddle Returns"
+      ],
+      "guild": {
+        "id": "BBC7CDF4-0241-E611-80D4-E4115BDFF975",
+        "name": "World Elite",
+        "tag": "WE"
+      },
+      "dateStart": "2026-11-11T13:33:24.000Z",
+      "dateEnd": "2026-11-11T14:39:45.109Z",
+      "dateLabel": "11/11/2026, 9:33:24 PM - 11/11/2026, 10:39:45 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261111-213324-lhpo",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20261111-110531-r9c9",
       "title": "Öptussy",
