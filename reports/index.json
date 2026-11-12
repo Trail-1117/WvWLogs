@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.24.1"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261112-104356-dmhq",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-12T02:43:56.000Z",
+      "dateEnd": "2026-11-12T03:38:29.199Z",
+      "dateLabel": "11/12/2026, 10:43:56 AM - 11/12/2026, 11:38:29 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261112-104356-dmhq",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 49
+      }
+    },
     {
       "id": "20261111-213324-lhpo",
       "title": "Riddle Returns",
