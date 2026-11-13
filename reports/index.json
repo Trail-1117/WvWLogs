@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261113-105849-honk",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-11-13T02:58:49.000Z",
+      "dateEnd": "2026-11-13T04:00:37.493Z",
+      "dateLabel": "11/13/2026, 10:58:49 AM - 11/13/2026, 12:00:37 PM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261113-105849-honk",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20261112-104356-dmhq",
       "title": "Tilted Illusion",
       "commanders": [
