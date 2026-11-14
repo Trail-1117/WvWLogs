@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261114-105351-3v3o",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-14T02:53:51.000Z",
+      "dateEnd": "2026-11-14T03:50:53.943Z",
+      "dateLabel": "11/14/2026, 10:53:51 AM - 11/14/2026, 11:50:53 AM",
+      "url": "https://trail-1117.github.io/WvWLogs/?report=20261114-105351-3v3o",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261113-105849-honk",
       "title": "Öptussy",
       "commanders": [
